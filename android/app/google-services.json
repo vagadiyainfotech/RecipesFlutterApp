@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94395758471",
+    "project_id": "indianrecipes-2dfe0",
+    "storage_bucket": "indianrecipes-2dfe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94395758471:android:b58567a05f57ed351e8522",
+        "android_client_info": {
+          "package_name": "indian.fastfood.recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94395758471-fb48btlaef1euhefvpnooss3418cghih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "indian.fastfood.recipes",
+            "certificate_hash": "54541b6e1d86dc14b079b6e6c07bc7bc28c1bf5c"
+          }
+        },
+        {
+          "client_id": "94395758471-ljkuj673kjeln2c40753nvff2bvlpuci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxe6sgyXiF8k_9U61KuoUyvIxlNwM7oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94395758471-ljkuj673kjeln2c40753nvff2bvlpuci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
